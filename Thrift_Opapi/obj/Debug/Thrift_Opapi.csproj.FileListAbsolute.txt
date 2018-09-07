@@ -1,0 +1,10 @@
+D:\work\RCP\Thrift_Opapi\Thrift_Opapi\bin\Debug\Thrift_Opapi.exe
+D:\work\RCP\Thrift_Opapi\Thrift_Opapi\bin\Debug\Thrift_Opapi.pdb
+D:\work\RCP\Thrift_Opapi\Thrift_Opapi\bin\Debug\Thrift.dll
+D:\work\RCP\Thrift_Opapi\Thrift_Opapi\obj\Debug\Thrift_Opapi.csproj.CoreCompileInputs.cache
+D:\work\RCP\Thrift_Opapi\Thrift_Opapi\obj\Debug\Thrift_Opapi.csproj.CopyComplete
+D:\work\RCP\Thrift_Opapi\Thrift_Opapi\obj\Debug\Thrift_Opapi.exe
+D:\work\RCP\Thrift_Opapi\Thrift_Opapi\obj\Debug\Thrift_Opapi.pdb
+D:\work\RCP\Thrift_Opapi\Thrift_Opapi\bin\Debug\LitJson.dll
+D:\work\RCP\Thrift_Opapi\Thrift_Opapi\bin\Debug\MarkerMetro.Unity.WinLegacy.dll
+D:\work\RCP\Thrift_Opapi\Thrift_Opapi\obj\Debug\Thrift_Opapi.csprojAssemblyReference.cache
