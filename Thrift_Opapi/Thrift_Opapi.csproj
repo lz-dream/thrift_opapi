@@ -49,8 +49,9 @@
       <HintPath>..\packages\MarkerMetro.Unity.WinLegacy.1.8.0.7\lib\net35\MarkerMetro.Unity.WinLegacy.dll</HintPath>
     </Reference>
     <Reference Include="System" />
-    <Reference Include="Thrift">
-      <HintPath>C:\Users\lxw-pc\Desktop\thrift\csTest\HelloThrift\lib\Thrift.dll</HintPath>
+    <Reference Include="Thrift, Version=0.11.0.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files\thrift\thrift-0.9.3\lib\csharp\src\bin\Debug\Thrift.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

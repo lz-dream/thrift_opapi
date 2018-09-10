@@ -12,7 +12,6 @@ namespace Thrift_Opapi
         public string host;
         public int port;
         public int timeout;
-
         public override string ToString()
         {
             return string.Format("Name:{0},Level:{1},Age:{2}", host, port, timeout);
